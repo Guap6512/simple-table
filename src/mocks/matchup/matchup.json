@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Alistar",
+    "role": "Mid",
+    "games": 30,
+    "winRate": 0.305,
+    "statistics": {
+      "kills": 4.2,
+      "deaths": 2.9,
+      "all": 6.8
+    },
+    "xpd": -534,
+    "goldDifference": -613,
+    "csd": -24,
+    "xp": 34353
+  },
+  {
+    "name": "Amumu",
+    "role": "Top",
+    "games": 25,
+    "winRate": 0.432,
+    "statistics": {
+      "kills": 6.2,
+      "deaths": 4.9,
+      "all": 2.8
+    },
+    "xpd": -544,
+    "goldDifference": -42,
+    "csd": -12,
+    "xp": 46231
+  },
+  {
+    "name": "Akali",
+    "role": "Bot",
+    "games": 40,
+    "winRate": 0.341,
+    "statistics": {
+      "kills": 3.2,
+      "deaths": 5.9,
+      "all": 8.8
+    },
+    "xpd": -345,
+    "goldDifference": 119,
+    "csd": 24,
+    "xp": 23434
+  },
+  {
+    "name": "Brand",
+    "role": "Adc",
+    "games": 35,
+    "winRate": 0.343,
+    "statistics": {
+      "kills": 5.2,
+      "deaths": 4.9,
+      "all": 7.8
+    },
+    "xpd": 243,
+    "goldDifference": 548,
+    "csd": 124,
+    "xp": 67342
+  },
+  {
+    "name": "Lux",
+    "role": "Mid",
+    "games": 10,
+    "winRate": 0.421,
+    "statistics": {
+      "kills": 4.2,
+      "deaths": 6.9,
+      "all": 7.8
+    },
+    "xpd": 531,
+    "goldDifference": 252,
+    "csd": 86,
+    "xp": 54243
+  },
+  {
+    "name": "Morgana",
+    "role": "Top",
+    "games": 25,
+    "winRate": 0.586,
+    "statistics": {
+      "kills": 2.2,
+      "deaths": 4.9,
+      "all": 6.8
+    },
+    "xpd": -353,
+    "goldDifference": -173,
+    "csd": -20,
+    "xp": 87231
+  },
+  {
+    "name": "Yone",
+    "role": "Top",
+    "games": 40,
+    "winRate": 0.392,
+    "statistics": {
+      "kills": 3.2,
+      "deaths": 5.9,
+      "all": 6.8
+    },
+    "xpd": -353,
+    "goldDifference": -400,
+    "csd": -44,
+    "xp": 24413
+  }
+]
