@@ -12,7 +12,7 @@
     "xpd": -534,
     "goldDifference": -613,
     "csd": -24,
-    "xp": 34353
+    "xpm": 34353
   },
   {
     "name": "Amumu",
@@ -27,7 +27,7 @@
     "xpd": -544,
     "goldDifference": -42,
     "csd": -12,
-    "xp": 46231
+    "xpm": 46231
   },
   {
     "name": "Akali",
@@ -42,7 +42,7 @@
     "xpd": -345,
     "goldDifference": 119,
     "csd": 24,
-    "xp": 23434
+    "xpm": 23434
   },
   {
     "name": "Brand",
@@ -57,7 +57,7 @@
     "xpd": 243,
     "goldDifference": 548,
     "csd": 124,
-    "xp": 67342
+    "xpm": 67342
   },
   {
     "name": "Lux",
@@ -72,7 +72,7 @@
     "xpd": 531,
     "goldDifference": 252,
     "csd": 86,
-    "xp": 54243
+    "xpm": 54243
   },
   {
     "name": "Morgana",
@@ -87,7 +87,7 @@
     "xpd": -353,
     "goldDifference": -173,
     "csd": -20,
-    "xp": 87231
+    "xpm": 87231
   },
   {
     "name": "Yone",
@@ -102,6 +102,6 @@
     "xpd": -353,
     "goldDifference": -400,
     "csd": -44,
-    "xp": 24413
+    "xpm": 24413
   }
 ]
